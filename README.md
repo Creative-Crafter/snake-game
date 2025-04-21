@@ -3,10 +3,6 @@
 A modern and stylish Snake game built with HTML, CSS, and JavaScript.  
 Featuring gradient background, rounded snake blocks, local high score storage, and responsive design!
 
-![screenshot1.png](/screenshot1.png)
-![screenshot2.png](/screenshot2.png)
-![screenshot3.png](/screenshot3.png)
-
 ## 🚀 Features
 
 - 🎮 Classic Snake gameplay
@@ -28,7 +24,9 @@ Featuring gradient background, rounded snake blocks, local high score storage, a
 
 ## 📸 Screenshot
 
-> You can add a screenshot named `screenshot.png` in the repo root to show off your game!
+![screenshot1.png](/screenshot1.png)
+![screenshot2.png](/screenshot2.png)
+![screenshot3.png](/screenshot3.png)
 
 ## 💡 How to Use
 
