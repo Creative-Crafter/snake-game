@@ -31,7 +31,7 @@ Featuring gradient background, rounded snake blocks, local high score storage, a
 ## 💡 How to Use
 
 1. Clone or download the repository.
-2. Open `index.html` in any modern web browser.
+2. Open `snake.html` in any modern web browser.
 3. Press **Space** to start the game and have fun!
 
 ## 🛠️ Technologies Used
