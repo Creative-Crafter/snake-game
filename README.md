@@ -24,9 +24,9 @@ Featuring gradient background, rounded snake blocks, local high score storage, a
 
 ## 📸 Screenshot
 
-![screenshot1.png](/screenshot1.png)
-![screenshot2.png](/screenshot2.png)
-![screenshot3.png](/screenshot3.png)
+![screenshot1.png](/screenshots/screenshot1.png)
+![screenshot2.png](/screenshots/screenshot2.png)
+![screenshot3.png](/screenshots/screenshot3.png)
 
 ## 💡 How to Use
 
