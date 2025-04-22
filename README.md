@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Snake Gam
 
 A modern and stylish Snake game built with HTML, CSS, and JavaScript.  
 Featuring gradient background, rounded snake blocks, local high score storage, and responsive design!
